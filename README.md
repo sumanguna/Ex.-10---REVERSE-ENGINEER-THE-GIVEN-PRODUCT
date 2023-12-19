@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot 2023-12-19 161616](https://github.com/sumanguna/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146914442/9461e2b3-95b0-4e50-9afd-f229181c8286)
 
 ### Output:
+![Screenshot 2023-12-19 161332](https://github.com/sumanguna/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146914442/36654158-a0a5-45c1-9223-6b197a501a16)
 
 
-### Name:
-### Register Number:
-
+### Name: SUMAN.G
+### Register Number: 23014256
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
